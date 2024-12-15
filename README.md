@@ -1,1 +1,1 @@
-# week5Homework1-clockAndGreetingPage
+- Patika+ week-5 homework 1 designing greetting page
